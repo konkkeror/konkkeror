@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Betty App](https://appbetty.com/)
 
-- 👨‍💻 All of my projects are available at [https://arkoses.com](https://arkoses.com)
+- 👨‍💻 All of my projects are available at [https://erick-marin-portfolio.web.app/](https://erick-marin-portfolio.web.app)
 
 - 💬 Ask me about **react, angular, react native**
 

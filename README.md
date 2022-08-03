@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://erick-marin-portfolio.web.app/](https://erick-marin-portfolio.web.app)
 
-- 💬 Ask me about **react, angular, react native**
+- 💬 Ask me about **react, angular, react native, nodeJS, typescript**
 
 - 📫 How to reach me **erick.marin@appbetty.com**
 

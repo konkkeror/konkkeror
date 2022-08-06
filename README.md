@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=konkkeror&label=Profile%20views&color=0e75b6&style=flat" alt="konkkeror" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=konkkeror" alt="konkkeror" /></a> </p>
-
 - 🔭 I’m currently working on [Betty App](https://appbetty.com/)
 
 - 👨‍💻 All of my projects are available at [https://erick-marin-portfolio.web.app](https://erick-marin-portfolio.web.app)

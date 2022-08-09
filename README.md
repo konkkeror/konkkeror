@@ -1,5 +1,5 @@
 <h1 align="center">Hello there, I'm Erick Marín</h1>
-<h3 align="center">A true fullstack developes, Entrepreneur</h3>
+<h3 align="center">A true fullstack developer, Entrepreneur</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=konkkeror&label=Profile%20views&color=0e75b6&style=flat" alt="konkkeror" /> </p>
 
